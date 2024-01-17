@@ -1,0 +1,46 @@
+header{
+    background-color:rgb(171, 103, 103); 
+    top:0px
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-left:70%;
+   
+    
+    
+}
+.nav-link{
+    color:rgb(5, 5, 5);
+    font-size: 55px;
+   text-decoration: none;
+}
+h1{
+    font-size: 50px;
+    color:rgb(171, 103, 103); 
+}
+p{
+    font-size: 25px;
+}
+.form{
+   font-size: 50px;
+  
+
+}
+input{
+    padding-block: 10px;
+}
+.button{
+    width: 25%;
+    background:rgb(171, 103, 103); 
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.inline{
+    display: flex;
+    justify-content: space-between;
+}
